@@ -29,5 +29,7 @@ export default function App() {
       <button onClick={increment}>+</button>
       <button onClick={decrement}disabled={count===0}>-</button>
     </div>
+    hi
+    
   );
 };
